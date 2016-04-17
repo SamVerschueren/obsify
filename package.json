@@ -1,6 +1,6 @@
 {
   "name": "obsify",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Observableify a callback-style function",
   "license": "MIT",
   "repository": "SamVerschueren/obsify",
